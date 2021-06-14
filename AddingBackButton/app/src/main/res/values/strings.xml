@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AddingBackButton</string>
+    <string name="txt">It is DifferentWayListener
+        \nActivity of
+        \nAddingBackButton App</string>
+</resources>
